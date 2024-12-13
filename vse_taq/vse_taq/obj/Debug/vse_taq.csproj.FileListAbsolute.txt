@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\vse_taq\bin\Debug\vse_taq.exe.config
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\vse_taq\bin\Debug\vse_taq.exe
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\vse_taq\bin\Debug\vse_taq.pdb
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\vse_taq\obj\Debug\vse_taq.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\vse_taq\obj\Debug\vse_taq.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\vse_taq\obj\Debug\vse_taq.exe
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\vse_taq\obj\Debug\vse_taq.pdb

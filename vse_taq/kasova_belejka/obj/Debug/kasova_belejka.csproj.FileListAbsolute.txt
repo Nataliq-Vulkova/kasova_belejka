@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\kasova_belejka\bin\Debug\kasova_belejka.exe.config
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\kasova_belejka\bin\Debug\kasova_belejka.exe
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\kasova_belejka\bin\Debug\kasova_belejka.pdb
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\kasova_belejka\obj\Debug\kasova_belejka.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\kasova_belejka\obj\Debug\kasova_belejka.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\kasova_belejka\obj\Debug\kasova_belejka.exe
+C:\Users\1409-12\Desktop\Nataliq\9_a\vse_taq\kasova_belejka\obj\Debug\kasova_belejka.pdb
